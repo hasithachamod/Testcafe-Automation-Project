@@ -1,0 +1,19 @@
+{
+  "name": "camms-sauce-labs",
+  "version": "1.0.0",
+  "description": "QA Assessment Camms",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome ./tests"
+  },
+  "keywords": [
+    "SauceLabs",
+    "Camms"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "testcafe": "^2.3.1"
+  }
+}

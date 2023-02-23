@@ -1,14 +1,13 @@
 {
-  "name": "camms-sauce-labs",
+  "name": "sauce-labs",
   "version": "1.0.0",
-  "description": "QA Assessment Camms",
+  "description": "QA Assessment",
   "main": "index.js",
   "scripts": {
     "test": "testcafe chrome ./tests"
   },
   "keywords": [
-    "SauceLabs",
-    "Camms"
+    "SauceLabs", "Testcafe"
   ],
   "author": "",
   "license": "ISC",
